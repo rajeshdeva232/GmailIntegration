@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1040184139870",
+    "firebase_url": "https://integration-5a7c5.firebaseio.com",
+    "project_id": "integration-5a7c5",
+    "storage_bucket": "integration-5a7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040184139870:android:a1a115be7cb8853b",
+        "android_client_info": {
+          "package_name": "tinderz.com.cog.gmailintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040184139870-d3ef9nhlh3dls1u38ahefplvonek1976.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tinderz.com.cog.gmailintegration",
+            "certificate_hash": "d563649ac406d660624ed134562852beb633043a"
+          }
+        },
+        {
+          "client_id": "1040184139870-htcrv067iftilps6a4347s9pb4o44nvo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1040184139870-htcrv067iftilps6a4347s9pb4o44nvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRafTcq7kkbiy7Nat4b4nJ_0uEfEm0XY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040184139870-htcrv067iftilps6a4347s9pb4o44nvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
